@@ -8,23 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Michelly\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\paulo.santos-ext\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Michelly\\Desktop\\C#\\Curso C# hovacker\\FormularioPadrao\\FormularioPadrao.csproj",
+      "projectUniqueName": "C:\\Users\\paulo.santos-ext\\source\\repos\\Exercicios_C\\PacoteDownload\\FormularioPadrao\\FormularioPadrao.csproj",
       "projectName": "FormularioPadrao",
-      "projectPath": "C:\\Users\\Michelly\\Desktop\\C#\\Curso C# hovacker\\FormularioPadrao\\FormularioPadrao.csproj",
-      "packagesPath": "C:\\Users\\Michelly\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Michelly\\Desktop\\C#\\Curso C# hovacker\\FormularioPadrao\\obj\\",
+      "projectPath": "C:\\Users\\paulo.santos-ext\\source\\repos\\Exercicios_C\\PacoteDownload\\FormularioPadrao\\FormularioPadrao.csproj",
+      "packagesPath": "C:\\Users\\paulo.santos-ext\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\paulo.santos-ext\\source\\repos\\Exercicios_C\\PacoteDownload\\FormularioPadrao\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Michelly\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\paulo.santos-ext\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
