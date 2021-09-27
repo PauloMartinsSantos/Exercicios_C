@@ -1,0 +1,32 @@
+C:\Users\paulo.santos-ext\Desktop\Codificados C#\FormularioPadrao\bin\Debug\netcoreapp3.1\FormularioPadrao.exe
+C:\Users\paulo.santos-ext\Desktop\Codificados C#\FormularioPadrao\bin\Debug\netcoreapp3.1\FormularioPadrao.deps.json
+C:\Users\paulo.santos-ext\Desktop\Codificados C#\FormularioPadrao\bin\Debug\netcoreapp3.1\FormularioPadrao.runtimeconfig.json
+C:\Users\paulo.santos-ext\Desktop\Codificados C#\FormularioPadrao\bin\Debug\netcoreapp3.1\FormularioPadrao.runtimeconfig.dev.json
+C:\Users\paulo.santos-ext\Desktop\Codificados C#\FormularioPadrao\bin\Debug\netcoreapp3.1\FormularioPadrao.dll
+C:\Users\paulo.santos-ext\Desktop\Codificados C#\FormularioPadrao\bin\Debug\netcoreapp3.1\FormularioPadrao.pdb
+C:\Users\paulo.santos-ext\Desktop\Codificados C#\FormularioPadrao\obj\Debug\netcoreapp3.1\FormularioPadrao.csproj.AssemblyReference.cache
+C:\Users\paulo.santos-ext\Desktop\Codificados C#\FormularioPadrao\obj\Debug\netcoreapp3.1\FormularioPadrao.Form1.resources
+C:\Users\paulo.santos-ext\Desktop\Codificados C#\FormularioPadrao\obj\Debug\netcoreapp3.1\FormularioPadrao.csproj.GenerateResource.cache
+C:\Users\paulo.santos-ext\Desktop\Codificados C#\FormularioPadrao\obj\Debug\netcoreapp3.1\FormularioPadrao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo.santos-ext\Desktop\Codificados C#\FormularioPadrao\obj\Debug\netcoreapp3.1\FormularioPadrao.AssemblyInfoInputs.cache
+C:\Users\paulo.santos-ext\Desktop\Codificados C#\FormularioPadrao\obj\Debug\netcoreapp3.1\FormularioPadrao.AssemblyInfo.cs
+C:\Users\paulo.santos-ext\Desktop\Codificados C#\FormularioPadrao\obj\Debug\netcoreapp3.1\FormularioPadrao.csproj.CoreCompileInputs.cache
+C:\Users\paulo.santos-ext\Desktop\Codificados C#\FormularioPadrao\obj\Debug\netcoreapp3.1\FormularioPadrao.dll
+C:\Users\paulo.santos-ext\Desktop\Codificados C#\FormularioPadrao\obj\Debug\netcoreapp3.1\FormularioPadrao.pdb
+C:\Users\paulo.santos-ext\Desktop\Codificados C#\FormularioPadrao\obj\Debug\netcoreapp3.1\FormularioPadrao.genruntimeconfig.cache
+C:\Users\Michelly\Desktop\C#\Curso C# hovacker\FormularioPadrao\bin\Debug\netcoreapp3.1\FormularioPadrao.exe
+C:\Users\Michelly\Desktop\C#\Curso C# hovacker\FormularioPadrao\bin\Debug\netcoreapp3.1\FormularioPadrao.deps.json
+C:\Users\Michelly\Desktop\C#\Curso C# hovacker\FormularioPadrao\bin\Debug\netcoreapp3.1\FormularioPadrao.runtimeconfig.json
+C:\Users\Michelly\Desktop\C#\Curso C# hovacker\FormularioPadrao\bin\Debug\netcoreapp3.1\FormularioPadrao.runtimeconfig.dev.json
+C:\Users\Michelly\Desktop\C#\Curso C# hovacker\FormularioPadrao\bin\Debug\netcoreapp3.1\FormularioPadrao.dll
+C:\Users\Michelly\Desktop\C#\Curso C# hovacker\FormularioPadrao\bin\Debug\netcoreapp3.1\FormularioPadrao.pdb
+C:\Users\Michelly\Desktop\C#\Curso C# hovacker\FormularioPadrao\obj\Debug\netcoreapp3.1\FormularioPadrao.csproj.AssemblyReference.cache
+C:\Users\Michelly\Desktop\C#\Curso C# hovacker\FormularioPadrao\obj\Debug\netcoreapp3.1\FormularioPadrao.Form1.resources
+C:\Users\Michelly\Desktop\C#\Curso C# hovacker\FormularioPadrao\obj\Debug\netcoreapp3.1\FormularioPadrao.csproj.GenerateResource.cache
+C:\Users\Michelly\Desktop\C#\Curso C# hovacker\FormularioPadrao\obj\Debug\netcoreapp3.1\FormularioPadrao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michelly\Desktop\C#\Curso C# hovacker\FormularioPadrao\obj\Debug\netcoreapp3.1\FormularioPadrao.AssemblyInfoInputs.cache
+C:\Users\Michelly\Desktop\C#\Curso C# hovacker\FormularioPadrao\obj\Debug\netcoreapp3.1\FormularioPadrao.AssemblyInfo.cs
+C:\Users\Michelly\Desktop\C#\Curso C# hovacker\FormularioPadrao\obj\Debug\netcoreapp3.1\FormularioPadrao.csproj.CoreCompileInputs.cache
+C:\Users\Michelly\Desktop\C#\Curso C# hovacker\FormularioPadrao\obj\Debug\netcoreapp3.1\FormularioPadrao.dll
+C:\Users\Michelly\Desktop\C#\Curso C# hovacker\FormularioPadrao\obj\Debug\netcoreapp3.1\FormularioPadrao.pdb
+C:\Users\Michelly\Desktop\C#\Curso C# hovacker\FormularioPadrao\obj\Debug\netcoreapp3.1\FormularioPadrao.genruntimeconfig.cache
