@@ -12,24 +12,30 @@ namespace FormularioPadrao
 {
     public partial class Form1 : Form
     {
+
+        int id = 1;
         public Form1()
         {
             InitializeComponent();
         }
 
         private void Form1_Load(object sender, EventArgs e)
-        {
+        {            
             label3.Visible = false;
             label4.Visible = false;
             label5.Visible = false;
             label6.Visible = false;
             textBox3.Visible = false;
             dateTimePicker1.Visible = false;
+
+            textBox1.Enabled = false;
+            textBox1.Text = Convert.ToString(id);
         }
 
         private void radioButton1_CheckedChanged(object sender, EventArgs e)
         {
             //Pessoa Fisica
+
             label3.Visible = false;
             label5.Visible = false;
 
@@ -42,6 +48,7 @@ namespace FormularioPadrao
         private void radioButton2_CheckedChanged(object sender, EventArgs e)
         {
             //Pessoa Juridica
+
             label4.Visible = false;
             label6.Visible = false;
 
@@ -55,6 +62,7 @@ namespace FormularioPadrao
 
         private void button1_Click(object sender, EventArgs e)
         {
+            
 
             if (textBox2.TextLength < 3) // validar comprimento nome
             {
@@ -76,9 +84,16 @@ namespace FormularioPadrao
                 {
                     if (textBox2.Text != string.Empty && textBox3.Text != string.Empty && comboBox1.Text != string.Empty) // validar campos se não for vazio
                     {
-                        //Cadastro
-                        textBox4.AppendText(textBox1.Text + "- " + textBox2.Text + " " + textBox3.Text + " " + dateTimePicker1.Value.Date.ToString("dd/MM/yyyy") + " - " + comboBox1.SelectedItem + "\r\n");
 
+                        //Cadastro
+                        textBox4.AppendText("ID: " + textBox1.Text + " - Nome: " + textBox2.Text + " - CPF / CNPJ: " + textBox3.Text + " - Nasc:  " + dateTimePicker1.Value.Date.ToString("dd/MM/yyyy") + " - Cidade: " + comboBox1.SelectedItem + "\r\n");
+                        
+                        id++;
+                        textBox1.Text = Convert.ToString(id);
+
+                        textBox2.Text = string.Empty;                        
+                        textBox3.Text = string.Empty;
+                        comboBox1.Text = string.Empty;
                     }
                     else
                     {
